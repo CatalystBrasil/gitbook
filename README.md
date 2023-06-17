@@ -1,6 +1,6 @@
 ---
 description: 🚀 Bem-vind@s ao - Fund 10 - 🎉
-cover: .gitbook/assets/cover_gb.png
+cover: .gitbook/assets/[F10] CSBra git-cover.png
 coverY: 0
 layout: landing
 ---

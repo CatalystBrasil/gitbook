@@ -1,5 +1,7 @@
 ---
 description: Entrevista com Rafael do DeepFunding - SingularityNET
+cover: ../../.gitbook/assets/[F10] CSBra git-cover.png
+coverY: 0
 ---
 
 # Descentralizando a Inteligência Artificial

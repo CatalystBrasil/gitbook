@@ -1,5 +1,7 @@
 ---
 description: O orçamento disponível para este desafio é de ₳3.158.400
+cover: ../../../.gitbook/assets/[F10] CSBra git-cover.png
+coverY: 0
 ---
 
 # F10: DAOs <3 Cardano

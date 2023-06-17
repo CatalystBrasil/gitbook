@@ -1,5 +1,7 @@
 ---
 description: Datas e Prazos do - Fund 10 - do Project Catalyst
+cover: ../../.gitbook/assets/[F10] CSBra git-cover.png
+coverY: 0
 ---
 
 # Fund10: Datas e Prazos

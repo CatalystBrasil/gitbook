@@ -1,5 +1,7 @@
 ---
 description: Categorias e o respectivo montante de subsídios
+cover: ../../../.gitbook/assets/[F10] CSBra git-cover.png
+coverY: 0
 ---
 
 # Categorias do - Fund 10 -

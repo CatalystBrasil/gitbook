@@ -1,5 +1,7 @@
 ---
 description: O orçamento disponível para este desafio é de ₳4.737.600
+cover: ../../../.gitbook/assets/[F10] CSBra git-cover.png
+coverY: 0
 ---
 
 # F10: Ferramentas para SPO e Projetos da Comunidade

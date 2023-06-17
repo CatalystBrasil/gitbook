@@ -1,5 +1,7 @@
 ---
 description: Anúncio e informações sobre o Fund 10 do Project Catalyst
+cover: ../../.gitbook/assets/[F10] CSBra git-cover.png
+coverY: 0
 ---
 
 # Anúncio - Fund 10 -

@@ -1,5 +1,7 @@
 ---
 description: ₳1.400.000
+cover: ../../../.gitbook/assets/[F10] CSBra git-cover.png
+coverY: 0
 ---
 
 # F10: Catalyst Aberto

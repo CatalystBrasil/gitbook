@@ -1,5 +1,7 @@
 ---
 description: O orçamento disponível para este desafio é de ₳394.800
+cover: ../../../.gitbook/assets/[F10] CSBra git-cover.png
+coverY: 0
 ---
 
 # F10: Construindo no NMKR
