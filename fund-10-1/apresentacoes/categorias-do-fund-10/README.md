@@ -1,6 +1,6 @@
 ---
 description: Categorias e o respectivo montante de subsídios
-cover: ../../../.gitbook/assets/[F10] CSBra git-cover.png
+cover: ../../../.gitbook/assets/Frame 26.png
 coverY: 0
 ---
 

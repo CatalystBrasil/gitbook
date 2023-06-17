@@ -6,7 +6,7 @@ description: 'Entenda o #ProjectCatalyst do #Cardano e financie sua ideia.'
 
 {% embed url="https://youtu.be/iBKfLqqEgi8" %}
 
-![Apresentação: Introdução ao Catalyst](<../../.gitbook/assets/Slide1 (1).PNG>)
+![Apresentação: Introdução ao Catalyst](../../.gitbook/assets/Slide1.PNG)
 
 ### Bem-vind@s ao experimento!
 

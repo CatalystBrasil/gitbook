@@ -1,6 +1,6 @@
 ---
 description: O orçamento disponível para este desafio é de ₳394.800
-cover: ../../../.gitbook/assets/[F10] CSBra git-cover.png
+cover: ../../../.gitbook/assets/Frame 26.png
 coverY: 0
 ---
 
