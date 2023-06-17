@@ -1,0 +1,78 @@
+# Table of contents
+
+* [- Fund 10 -](README.md)
+
+## Fund 10
+
+* [apresentações](fund-10-1/apresentacoes/README.md)
+  * [Categorias do - Fund 10 -](fund-10-1/apresentacoes/categorias-do-fund-10/README.md)
+    * [Operações do Fundo Catalyst](fund-10-1/apresentacoes/categorias-do-fund-10/operacoes-do-fundo-catalyst.md)
+    * [Melhorias nos sistemas Catalyst](fund-10-1/apresentacoes/categorias-do-fund-10/melhorias-nos-sistemas-catalyst.md)
+    * [F10: Atala PRISM: Ecossistema de lançamento](fund-10-1/apresentacoes/categorias-do-fund-10/f10-atala-prism-ecossistema-de-lancamento.md)
+    * [F10: Construindo no NMKR](fund-10-1/apresentacoes/categorias-do-fund-10/f10-construindo-no-nmkr.md)
+    * [F10: Catalyst Aberto](fund-10-1/apresentacoes/categorias-do-fund-10/f10-catalyst-aberto.md)
+    * [F10: DAOs <3 Cardano](fund-10-1/apresentacoes/categorias-do-fund-10/f10-daos-less-than-3-cardano.md)
+    * [F10: Ecossistema de desenvolvedores - A evolução](fund-10-1/apresentacoes/categorias-do-fund-10/f10-ecossistema-de-desenvolvedores-a-evolucao.md)
+    * [F10: Desenvolvimento e Infraestrutura](fund-10-1/apresentacoes/categorias-do-fund-10/f10-desenvolvimento-e-infraestrutura.md)
+    * [F10: Melhoria e integração de dRep](fund-10-1/apresentacoes/categorias-do-fund-10/f10-melhoria-e-integracao-de-drep.md)
+    * [F10: OSDE: Ecossistema de desenvolvimento de código aberto](fund-10-1/apresentacoes/categorias-do-fund-10/f10-osde-ecossistema-de-desenvolvimento-de-codigo-aberto.md)
+    * [F10: Produtos e Integrações](fund-10-1/apresentacoes/categorias-do-fund-10/f10-produtos-e-integracoes.md)
+    * [F10: Ferramentas para SPO e Projetos da Comunidade](fund-10-1/apresentacoes/categorias-do-fund-10/f10-ferramentas-para-spo-e-projetos-da-comunidade.md)
+    * [F10: Startups e Onboarding para Estudantes](fund-10-1/apresentacoes/categorias-do-fund-10/f10-startups-e-onboarding-para-estudantes.md)
+  * [Fund10: Datas e Prazos](fund-10-1/apresentacoes/fund10-datas-e-prazos.md)
+  * [Anúncio - Fund 10 -](fund-10-1/apresentacoes/anuncio-fund-10.md)
+* [workshops](fund-10-1/workshops.md)
+* [entrevistas](fund-10-1/entrevistas/README.md)
+  * [Descentralizando a Inteligência Artificial](fund-10-1/entrevistas/descentralizando-a-inteligencia-artificial.md)
+
+***
+
+* [🔗 links](links/README.md)
+  * [Ecossistema](links/ecossistema.md)
+  * [✍ project catalyst](links/project-catalyst.md)
+  * [🎒 the-catalyst-school](links/the-catalyst-school.md)
+  * [🐝 catalyst swarm](links/catalyst-swarm.md)
+  * [☀ latam cardano community](links/latam-cardano-community.md)
+
+## Fund 9
+
+* [catalyst school brasil](fund-9/catalyst-school-brasil.md)
+* [FUND 9 - timeline](fund-9/fund-9-timeline.md)
+* [GUIA DO AVALIADOR DE PROPOSTAS](fund-9/guia-do-avaliador-de-propostas.md)
+* [Orientações para elaboração de propostas e challenges (desafios)](fund-9/orientacoes-para-elaboracao-de-propostas-e-challenges-desafios.md)
+* [apresentações](fund-9/apresentacoes/README.md)
+  * [Como ser um PA?](fund-9/apresentacoes/como-ser-um-pa.md)
+  * [Propondo no Catalyst](fund-9/apresentacoes/propondo-no-catalyst.md)
+  * [Breve Introdução ao Catalyst](fund-9/apresentacoes/breve-introducao-ao-catalyst.md)
+  * [Introdução ao Catalyst](fund-9/apresentacoes/introducao-ao-catalyst.md)
+* [workshops](fund-9/workshops/README.md)
+  * [Aprenda Como Participar no Catalyst](fund-9/workshops/aprenda-como-participar-no-catalyst.md)
+* [entrevistas](fund-9/entrevistas.md)
+
+## Fund8
+
+* [🎓 catalyst school brasil](fund8/readme.md)
+* [🇧🇷 workshops](fund8/workshops/README.md)
+  * [entrevista: Como ser um veteran Community Advisor? (vCA)](fund8/workshops/entrevista-como-ser-um-veteran-community-advisor-vca.md)
+  * [Como ser um veteran Community Advisor? (vCA)](fund8/workshops/como-ser-um-veteran-community-advisor-vca.md)
+  * [Como ser um Community Advisor (CA) ?](fund8/workshops/como-ser-um-community-advisor-ca.md)
+  * [Elaborando a Proposta do Catalyst #2](fund8/workshops/elaborando-a-proposta-do-catalyst-2.md)
+  * [Elaborando a Proposta do Catalyst #1](fund8/workshops/elaborando-a-proposta-do-catalyst-1.md)
+  * [Introdução ao Catalyst](fund8/workshops/introducao-ao-catalyst.md)
+* [🇧🇷 Diretrizes Gerais do vCA (Fund8)](fund8/diretrizes-gerais-do-vca-fund8/README.md)
+  * [Diretrizes Gerais](fund8/diretrizes-gerais-do-vca-fund8/diretrizes-gerais.md)
+  * [Propósito](fund8/diretrizes-gerais-do-vca-fund8/proposito.md)
+  * [Considerações por Abordagem](fund8/diretrizes-gerais-do-vca-fund8/consideracoes-por-abordagem.md)
+  * [Começando](fund8/diretrizes-gerais-do-vca-fund8/comecando.md)
+  * [O que acontece após a revisão do vCA ?](fund8/diretrizes-gerais-do-vca-fund8/o-que-acontece-apos-a-revisao-do-vca.md)
+  * [Processo Resolutivo](fund8/diretrizes-gerais-do-vca-fund8/processo-resolutivo.md)
+* [🇧🇷 Guia de Avaliação de Community Advisors – CAs (conselheiros da comunidade)](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/README.md)
+  * [Diretrizes Gerais](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/diretrizes-gerais.md)
+  * [Critérios de Pontuação – Challenges (desafios) Regulares](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/criterios-de-pontuacao-challenges-desafios-regulares.md)
+  * [Critérios de pontuação - Definição de Challenges da Comunidade](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/criterios-de-pontuacao-definicao-de-challenges-da-comunidade.md)
+  * [Definições de uma avaliação de qualidade](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/definicoes-de-uma-avaliacao-de-qualidade.md)
+  * [Avaliações inadequadas](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/avaliacoes-inadequadas.md)
+  * [Exemplos de avaliações de alta qualidade para inspiração e treinamento](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/exemplos-de-avaliacoes-de-alta-qualidade-para-inspiracao-e-treinamento.md)
+  * [A avaliação foi concluída. O que acontece depois?](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/a-avaliacao-foi-concluida.-o-que-acontece-depois.md)
+  * [Principais mudanças em fundos anteriores](fund8/guia-de-avaliacao-de-community-advisors-cas-conselheiros-da-comunidade/principais-mudancas-em-fundos-anteriores.md)
+* [Orientações para elaboração de propostas e challenges (desafios) no Project Catalyst](fund8/orientacoes-para-elaboracao-de-propostas-e-challenges-desafios-no-project-catalyst.md)
