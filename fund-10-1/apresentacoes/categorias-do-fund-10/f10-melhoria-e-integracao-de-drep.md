@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/xxB7hgtO1y4?feature=share" %}
+[short](https://youtube.com/shorts/xxB7hgtO1y4?feature=share)
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Como você alcança "(1) uma participação diversificada e numerosa de dRep + (2) uma delegação de votos fácil e adequada?"
@@ -30,7 +34,7 @@ coverY: 0
 >
 > ### (2) Mais de 50% dos eleitores estão votando "cuidadosamente"
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### ・(Diversidade de dReps) Isso levou ao envolvimento de dReps diversos com diferentes idiomas, origens nacionais, ocupações, gêneros, idades, religiões, etc.?
 >

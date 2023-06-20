@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/dsVAoni2FlA?feature=share" %}
+[Short](https://youtube.com/shorts/dsVAoni2FlA?feature=share)
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Como podemos apoiar projetos e iniciativas eficazes e impactantes para construir e apoiar o ecossistema e a comunidade SPO?
@@ -24,7 +28,7 @@ coverY: 0
 
 > ### Iniciando soluções com base na comunidade para construir ferramentas e plataformas SPO, oferecer serviços, eventos e pesquisas.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### Ao final deste desafio, nos perguntaremos: Conseguimos facilitar a construção de projetos e desenvolvedores de SPO no Cardano?
 >

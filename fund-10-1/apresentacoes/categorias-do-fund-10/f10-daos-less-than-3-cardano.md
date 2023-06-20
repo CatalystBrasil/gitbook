@@ -12,6 +12,8 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/GR21qNZ6VbE?feature=share" %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Como podemos tornar a Cardano a escolha ideal para a construção de DAOs? Que ferramentas podemos fornecer para permitir a criação e operação eficaz de DAOs?
@@ -24,7 +26,7 @@ coverY: 0
 
 > ### Não existem maneiras melhores de gerenciar seu DAO do que usar os DAOs da Cardano. Desde pequenos negócios até comunidades globais... Os DAOs da Cardano entregam resultados.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### Número de comunidades envolvidas em colaboração usando ferramentas de criação de DAOs do Cardano.
 >

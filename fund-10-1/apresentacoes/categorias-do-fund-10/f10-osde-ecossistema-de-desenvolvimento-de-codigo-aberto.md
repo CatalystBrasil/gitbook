@@ -12,6 +12,8 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/GR21qNZ6VbE?feature=share" %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Podemos construir um ecossistema de código aberto de propriedade da comunidade que seja comercialmente viável para impulsionar o crescimento, aumentar oportunidades e aumentar a visibilidade do projeto para toda a comunidade Cardano?
@@ -24,7 +26,7 @@ coverY: 0
 
 > ### Mais projetos, desenvolvedores e usuários de código aberto Melhoria na visibilidade e qualidade dos projetos de código aberto Melhoria na infraestrutura de código aberto.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### Aumento do número e qualidade de projetos de código aberto&#x20;
 >

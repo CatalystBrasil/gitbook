@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/FBsx4nbL5Bc" %}
+[Short](https://youtube.com/shorts/FBsx4nbL5Bc)
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Como podemos tornar o ecossistema Cardano NFT mais acessível criando ferramentas que implementem a API NMKR Dev?
@@ -24,7 +28,7 @@ coverY: 0
 
 > ### Devemos incentivar os desenvolvedores a criar ferramentas que avancem no espaço Cardano NFT sem depender da ferramenta para se tornar lucrativa.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### Ferramentas/Projetos lançados com sucesso Tempo desde o financiamento até o lançamento no mercado Número de usuários para esses projetos/ferramentas
 

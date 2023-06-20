@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/CCg7KOwWjGs?feature=share" %}
+[Short](https://www.youtube.com/@catalystbrasil)
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Podemos reunir as partes interessadas para acelerar a adoção e adequação do produto ao mercado?
@@ -24,7 +28,7 @@ coverY: 0
 
 > ### Estabelecer relacionamentos-chave e aprendizados no início do ciclo de desenvolvimento, levando a resultados comerciais mais rápidos e bem-sucedidos.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### Realizar uma oficina de Estrutura de Governança com a equipe IOG PSG Estabelecer ou ingressar em um grupo de trabalho de Estrutura de Governança no Trust over IP ou em outra organização anfitriã. Identificar partes interessadas, incluindo emissores, detentores, verificadores, formuladores de políticas e suas necessidades comerciais. Estabelecer uma cadência de reuniões e contribuições e promover um ambiente para as partes adotarem e participarem do Ecossistema e da Governança do Ecossistema Avançar na publicação de uma Estrutura de Governança Desenvolver uma Prova de Conceito, Piloto ou lançamento comercial.
 

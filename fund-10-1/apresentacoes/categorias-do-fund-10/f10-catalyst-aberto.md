@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/FBsx4nbL5Bc?feature=share" %}
+Short
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ###
@@ -24,7 +28,7 @@ coverY: 0
 
 > ###
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ###
 

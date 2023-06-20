@@ -9,4 +9,8 @@ layout: landing
 
 ## **O - Fund 10 - será lançado dia 21 de Junho de 2023**
 
-[**Veja aqui as Datas e Prazos**](fund-10-1/apresentacoes/fund10-datas-e-prazos.md)
+| Seção         | Breve descrição                                                | Link                                    |
+| ------------- | -------------------------------------------------------------- | --------------------------------------- |
+| apresentações | Seção destinada às apresentações do Catalyst Brasil.           | [clique aqui](fund-10-1/apresentacoes/) |
+| entrevistas   | Seção destinada à entrevistas de interesse geral da comunidade | [clique aqui](fund-10-1/entrevistas/)   |
+| workshops     | Seção destinada ao workshops do Catalyst Brasil                | [clique aqui](fund-10-1/workshops.md)   |

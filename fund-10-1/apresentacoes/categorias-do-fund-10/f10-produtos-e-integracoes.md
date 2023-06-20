@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/zWw1M_O-mzs?feature=share" %}
+Short
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Quais produtos e integrações podem ser desenvolvidos ou aprimorados para oferecer mais casos de uso ao ecossistema Cardano que sejam de alto impacto e impulsionem mais adoção?
@@ -24,7 +28,7 @@ coverY: 0
 
 > ### Um número crescente de produtos e integrações que ofereçam novas soluções para as pessoas interagirem e se beneficiarem usando o Cardano.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### Acompanhar o sucesso desta categoria significará:
 >

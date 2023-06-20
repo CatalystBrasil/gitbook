@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/LBS5SwSVu8k?feature=share" %}
+[Shorts](https://youtube.com/shorts/LBS5SwSVu8k?feature=share)
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Que pesquisas, ferramentas ou software podem melhorar o ecossistema de desenvolvedores ou a infraestrutura para facilitar a construção e escalabilidade na blockchain do Cardano?
@@ -24,7 +28,7 @@ coverY: 0
 
 > ### Inovação em ferramentas, software ou pesquisas que apoiem como os desenvolvedores constroem aplicativos ou que ajudem a melhorar a infraestrutura da Cardano.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### Acompanhar o sucesso dessa categoria significará:
 >

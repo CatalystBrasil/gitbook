@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/c7WFrIR7Wgo?feature=share" %}
+[short](https://youtube.com/shorts/c7WFrIR7Wgo?feature=share)
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Como equipamos e apoiamos os desenvolvedores com ferramentas e infraestrutura de trabalho?&#x20;
@@ -26,7 +30,7 @@ coverY: 0
 
 > ### Desenvolvimento acelerado de dApps e alinhamento com o objetivo estratégico do Cardano, que é aumentar o número de projetos de código aberto no Cardano.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > ### Ao final deste desafio, nos perguntaremos: Conseguimos facilitar para os desenvolvedores construírem em cima da Cardano?
 >

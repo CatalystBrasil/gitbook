@@ -12,6 +12,10 @@ coverY: 0
 
 </div>
 
+{% embed url="https://youtube.com/shorts/ZtHr0XDme0Y?feature=share" %}
+[Short](https://youtube.com/shorts/ZtHr0XDme0Y?feature=share)
+{% endembed %}
+
 ## ❓ Pergunta do desafio:
 
 > ### Como podemos apoiar startups de blockchain de estudantes por meio do Catalyst?&#x20;
@@ -26,7 +30,7 @@ coverY: 0
 
 > ### Reduzir a taxa de competição limitando os proponentes a estudantes. Estabelecer um limite de orçamento e distribuir oportunidades para vários proponentes.
 
-## 📏 Principais métricas para medir
+## 📏 Principais métricas
 
 > * Número de propostas nesta categoria
 > * Número de aplausos e comentários da comunidade

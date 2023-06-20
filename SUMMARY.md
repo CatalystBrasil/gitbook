@@ -1,6 +1,13 @@
 # Table of contents
 
 * [- Fund 10 -](README.md)
+* [Sobre o Catalyst Brasil](sobre-o-catalyst-brasil/README.md)
+  * [🔗 links](sobre-o-catalyst-brasil/links/README.md)
+    * [Ecossistema](sobre-o-catalyst-brasil/links/ecossistema.md)
+    * [✍ project catalyst](sobre-o-catalyst-brasil/links/project-catalyst.md)
+    * [🎒 the-catalyst-school](sobre-o-catalyst-brasil/links/the-catalyst-school.md)
+    * [🐝 catalyst swarm](sobre-o-catalyst-brasil/links/catalyst-swarm.md)
+    * [☀ latam cardano community](sobre-o-catalyst-brasil/links/latam-cardano-community.md)
 
 ## Fund 10
 
@@ -21,18 +28,9 @@
     * [F10: Startups e Onboarding para Estudantes](fund-10-1/apresentacoes/categorias-do-fund-10/f10-startups-e-onboarding-para-estudantes.md)
   * [Fund10: Datas e Prazos](fund-10-1/apresentacoes/fund10-datas-e-prazos.md)
   * [Anúncio - Fund 10 -](fund-10-1/apresentacoes/anuncio-fund-10.md)
-* [workshops](fund-10-1/workshops.md)
 * [entrevistas](fund-10-1/entrevistas/README.md)
   * [Descentralizando a Inteligência Artificial](fund-10-1/entrevistas/descentralizando-a-inteligencia-artificial.md)
-
-***
-
-* [🔗 links](links/README.md)
-  * [Ecossistema](links/ecossistema.md)
-  * [✍ project catalyst](links/project-catalyst.md)
-  * [🎒 the-catalyst-school](links/the-catalyst-school.md)
-  * [🐝 catalyst swarm](links/catalyst-swarm.md)
-  * [☀ latam cardano community](links/latam-cardano-community.md)
+* [workshops](fund-10-1/workshops.md)
 
 ## Fund 9
 
