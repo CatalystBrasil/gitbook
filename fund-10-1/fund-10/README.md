@@ -11,9 +11,9 @@ description: >-
 
 Além da categoria de proposta 'Catalyst Open', o Fund10 também introduz duas outras novas categorias de propostas, Catalyst Fund Operations e Catalyst Systems improvements, que representam algumas das decisões mais importantes para a comunidade tomar. O Fund10 também incluirá:
 
-* **Financiamento baseado em marcos** - introdução de "Prova de realização" verificada pela comunidade que aumenta a transparência e a responsabilidade do projeto
+* **Subsídio baseado em marcos** - introdução de "Prova de realização" verificada pela comunidade que aumenta a transparência e a responsabilidade do projeto
 * **Estágio de revisão** da comunidade - introdução de novos níveis de revisores da comunidade e incentivo
-* **Testnet contínua do Catalyst** - permitindo que novos recursos e avanços sejam demonstrados e testados pela comunidade em paralelo à rodada de financiamento ativo
+* **Testnet contínua do Catalyst** - permitindo que novos recursos e avanços sejam demonstrados e testados pela comunidade em paralelo à rodada de subsídio ativo
 * **Limites mínimos/máximos** - mínimo de ₳15.000 ao longo de um máximo de 12 meses de duração do projeto
 * **Melhorias no aplicativo de votação** - melhorando o fluxo de trabalho de registro de eleitores
 * **Atualizações para ProjectCatalyst.io** - incluindo uma área para documentação

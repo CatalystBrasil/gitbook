@@ -16,6 +16,7 @@
   * [Parâmetros do - Fund 10 -](fund-10-1/fund-10/parametros-do-fund-10.md)
   * [Orientação de pontuação para o Proponente](fund-10-1/fund-10/orientacao-de-pontuacao-para-o-proponente.md)
   * [Guia de envio de propostas](fund-10-1/fund-10/guia-de-envio-de-propostas.md)
+  * [Regras do Fundo](fund-10-1/fund-10/regras-do-fundo.md)
 * [apresentações](fund-10-1/apresentacoes/README.md)
   * [Categorias do - Fund 10 -](fund-10-1/apresentacoes/categorias-do-fund-10/README.md)
     * [Operações do Fundo Catalyst](fund-10-1/apresentacoes/categorias-do-fund-10/operacoes-do-fundo-catalyst.md)
