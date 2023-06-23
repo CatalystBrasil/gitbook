@@ -6,7 +6,7 @@ description: Regulamento do Fundo Catalyst
 
 ### Introdução  <a href="#introduction" id="introduction"></a>
 
-O Project Catalyst é um motor de crescimento e um programa de subsídios para o ecossistema Cardano que tem rodadas de subsídio a cada poucos meses, com uma quantidade definida de ada pronta para alocar em ideias. No início de cada Fundo, os membros da comunidade apresentam propostas em resposta aos desafios estabelecidos pela comunidade no desafio anterior. Os votos da comunidade e o subsídio são alocados aos projetos vencedores para dar vida aos projetos.​
+O Project Catalyst é um motor de crescimento e um programa de subsídios para o ecossistema Cardano que tem rodadas de subsídio a cada poucos meses, com uma quantidade definida em $ADA pronta para alocar em ideias. No início de cada Fundo, os membros da comunidade apresentam propostas em resposta aos desafios estabelecidos pela comunidade no desafio anterior. Os votos da comunidade e o subsídio são alocados aos projetos vencedores para dar vida aos projetos.​
 
 ### Objetivo deste documento <a href="#purpose-of-this-document" id="purpose-of-this-document"></a>
 
@@ -14,7 +14,7 @@ O Fund10 traz consigo uma série de mudanças, incluindo a introdução dessas r
 
 ### Principais mudanças no Fund10 <a href="#main-changes-to-fund10" id="main-changes-to-fund10"></a>
 
-* As propostas devem ser denominadas na ADA e os pagamentos de subsídio serão feitos na ADA. Para garantir que o Project Catalyst possa continuar a usar o tesouro da Cardano para subsidiar o crescimento do ecossistema Cardano, é de vital importância que as participações de tesouraria possam ser gerenciadas. Um fundo inteiramente denominado ADA significa que a comunidade e o tesouro podem prever de forma sensata quanto ADA será usado por cada fundo.
+* As propostas devem ser denominadas em $ADA e os pagamentos de subsídio serão feitos em $ADA. Para garantir que o Project Catalyst possa continuar a usar o tesouro da Cardano para subsidiar o crescimento do ecossistema Cardano, é de vital importância que as participações de tesouraria possam ser gerenciadas. Um fundo inteiramente denominado em $ADA significa que a comunidade e o tesouro podem prever de forma sensata quanto em $ADA será usado por cada fundo.
 
 ​
 
