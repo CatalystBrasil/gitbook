@@ -6,7 +6,7 @@ description: >-
 
 # O que é o Project Catalyst
 
-Apresentamos o Project Catalyst, o revolucionário motor de inovação da Cardano e um dos fundos de subvenção descentralizada mais significativos do mundo. O Project Catalyst impulsiona a inovação colaborativa a novos patamares e alimenta a expansão do ecossistema Cardano, conectando pessoas com ideias inovadoras a uma fonte de financiamento, colaborando e votado pela comunidade Cardano e liderado pelo tesouro Cardano.
+Apresentamos o Project Catalyst, o revolucionário motor de inovação da Cardano e um dos fundos de subvenção descentralizada mais significativos do mundo. O Project Catalyst impulsiona a inovação colaborativa a novos patamares e alimenta a expansão do ecossistema Cardano, conectando pessoas com ideias inovadoras a uma fonte de subvenção, colaborando e votado pela comunidade Cardano e liderado pelo tesouro Cardano.
 
 #### Por que colaborar para inovar? <a href="#why-collaborate-to-innovate" id="why-collaborate-to-innovate"></a>
 
@@ -21,12 +21,12 @@ Mas por que fazer isso? Quais as vantagens?
 #### Como funciona o Project Catalyst? <a href="#how-does-project-catalyst-work" id="how-does-project-catalyst-work"></a>
 
 * **Inovação** - Cada participante responde aos desafios gerados pela comunidade com suas ideias durante essa fase. O brainstorming leva à conceituação, ao feedback da comunidade e, em seguida, às propostas finalizadas.
-* **Governança** - Os participantes se cadastram para votar nas propostas que desejam ver financiadas. Uma contagem ocorre quando o período de votação termina antes que os resultados verificáveis sejam compartilhados.
-* **Execução** - Os projetos selecionados recebem financiamento após a conclusão dos marcos. Eles recebem orientação e mentoria para entregar suas propostas, e relatórios regulares são feitos à comunidade para garantir que tudo corra de acordo com o planejado.
+* **Governança** - Os participantes se cadastram para votar nas propostas que desejam ver subsidiadas. Uma contagem ocorre quando o período de votação termina antes que os resultados verificáveis sejam compartilhados.
+* **Execução** - Os projetos selecionados recebem subsídios após a conclusão dos marcos. Eles recebem orientação e mentoria para entregar suas propostas, e relatórios regulares são feitos à comunidade para garantir que tudo corra de acordo com o planejado.
 
 #### Como posso participar? <a href="#how-can-i-participate" id="how-can-i-participate"></a>
 
-* **​**[**Proponentes**](https://docs.projectcatalyst.io/catalyst-basics/how-to-submit-a-proposal) - Propor novas ideias para uma chance de ganhar financiamento
+* **​**[**Proponentes**](https://docs.projectcatalyst.io/catalyst-basics/how-to-submit-a-proposal) - Propor novas ideias para uma chance de ganhar subsídios
 * **​**[**Revisores da Comunidade**](https://docs.projectcatalyst.io/catalyst-basics/how-to-participate-in-community-reviews) - Dar opiniões e ajudar a orientar os eleitores através das propostas apresentadas.
 * **Equipes de desafio** - Maximize o impacto enquadrando problemas e definindo o sucesso
-* **Eleitores** - Decidam sobre o futuro de Cardano decidindo quais propostas recebem financiamento
+* **Eleitores** - Decidam sobre o futuro de Cardano decidindo quais propostas recebem subsídios
