@@ -6,17 +6,17 @@ description: >-
 
 # O que é o Project Catalyst
 
-##
-
 Apresentamos o Project Catalyst, o revolucionário motor de inovação da Cardano e um dos fundos de subvenção descentralizada mais significativos do mundo. O Project Catalyst impulsiona a inovação colaborativa a novos patamares e alimenta a expansão do ecossistema Cardano, conectando pessoas com ideias inovadoras a uma fonte de financiamento, colaborando e votado pela comunidade Cardano e liderado pelo tesouro Cardano.
 
 #### Por que colaborar para inovar? <a href="#why-collaborate-to-innovate" id="why-collaborate-to-innovate"></a>
 
-Nos últimos nove fundos, a equipe da Catalyst se esforçou muito para criar um sistema de governança que permita que todos tenham sua voz. Mas por que fazer isso? Quais as vantagens?
+Nos últimos nove fundos, a equipe do Project Catalyst se esforçou muito para criar um sistema de governança que permita que todos tenham sua voz.&#x20;
 
-* Pesquisa e desenvolvimento distribuídos. Ao capacitar nossa comunidade, podemos construir coisas melhores, mais rápidas e mais baratas do que organizações de cima para baixo.
-* Construção de equipes descentralizadas. A grande inovação vem de grandes equipes. Muitos de nossos projetos mais impactantes vêm de equipes que se conheceram ao fazer parte do Project Catalyst.
-* Refinamento e execução do grupo. Vemos uma melhora significativa na qualidade das propostas depois que a comunidade avalia suas críticas construtivas.
+Mas por que fazer isso? Quais as vantagens?
+
+* **Pesquisa e desenvolvimento distribuídos**. Ao capacitar nossa comunidade, podemos construir coisas melhores, mais rápidas e mais baratas do que organizações de cima para baixo.
+* **Construção de equipes descentralizadas**. A grande inovação vem de grandes equipes. Muitos de nossos projetos mais impactantes vêm de equipes que se conheceram ao fazer parte do Project Catalyst.
+* **Refinamento e execução do grupo**. Vemos uma melhora significativa na qualidade das propostas depois que a comunidade avalia suas críticas construtivas.
 
 #### Como funciona o Project Catalyst? <a href="#how-does-project-catalyst-work" id="how-does-project-catalyst-work"></a>
 

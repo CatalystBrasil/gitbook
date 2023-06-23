@@ -14,15 +14,15 @@ O Fund10 traz consigo uma série de mudanças, incluindo a introdução dessas r
 
 ### Principais mudanças no Fund10 <a href="#main-changes-to-fund10" id="main-changes-to-fund10"></a>
 
-* As propostas devem ser denominadas na ADA e os pagamentos de subsídio serão feitos na ADA. Para garantir que o Project Catalyst possa continuar a usar o tesouro da Cardano para financiar o crescimento do ecossistema Cardano, é de vital importância que as participações de tesouraria possam ser gerenciadas. Um fundo inteiramente denominado ADA significa que a comunidade e o tesouro podem prever de forma sensata quanto ADA será usado por cada fundo.
+* As propostas devem ser denominadas na ADA e os pagamentos de subsídio serão feitos na ADA. Para garantir que o Project Catalyst possa continuar a usar o tesouro da Cardano para subsidiar o crescimento do ecossistema Cardano, é de vital importância que as participações de tesouraria possam ser gerenciadas. Um fundo inteiramente denominado ADA significa que a comunidade e o tesouro podem prever de forma sensata quanto ADA será usado por cada fundo.
 
 ​
 
-* Será introduzido um subsídio baseado em marcos para todos os projetos aprovados. As propostas bem-sucedidas deverão apresentar uma Declaração de Marcos (SoM) que será revisada e aprovada pelos Revisores da Comunidade. O projeto receberá o pagamento antecipado do primeiro semestre, assim que o SoM for aprovado. Projetos de menor valor terão, compreensivelmente, menos marcos do que projetos de maior valor com escopo mais complexo. Isso ajuda a impulsionar a prestação de contas entre os projetos financiados e a comunidade Cardano. Antes de o subsídio para o próximo marco ser liberado, os projetos devem fornecer evidências de que o marco pelo qual já foram pagos foi alcançado. Isso é conhecido como Prova de Realização (PoA).
+* Será introduzido um subsídio baseado em marcos para todos os projetos aprovados. As propostas bem-sucedidas deverão apresentar uma Declaração de Marcos (SoM) que será revisada e aprovada pelos Revisores da Comunidade. O projeto receberá o pagamento antecipado do primeiro semestre, assim que o SoM for aprovado. Projetos de menor valor terão, compreensivelmente, menos marcos do que projetos de maior valor com escopo mais complexo. Isso ajuda a impulsionar a prestação de contas entre os projetos subsidiados e a comunidade Cardano. Antes de o subsídio para o próximo marco ser liberado, os projetos devem fornecer evidências de que o marco pelo qual já foram pagos foi alcançado. Isso é conhecido como Prova de Realização (PoA).
 
 ​
 
-* O subsídio estará sujeito a um montante mínimo de ₳15000 por proposta e todos os marcos devem ser concluídos no prazo de 12 meses a contar da concessão do projeto. Alguns desafios podem ter um limite máximo para o montante de subsídio que pode ser solicitado, por isso é importante que o escopo e as orientações do desafio sejam lidos. O Project Catalyst destina-se a ser um programa de subsídio da inovação de base. Não foi concebido para financiar projectos de alta complexidade e plurianuais. A aplicação de certos limites ajuda a garantir que o subsídio seja mais distribuído por todo o ecossistema e evita cenários em que são aprovados montantes muito elevados, mas a viabilidade da execução do projeto é largamente inqualificável, ou os projetos são aprovados para um subsídio muito pequeno, mas não podem gerar valor genuíno.
+* O subsídio estará sujeito a um montante mínimo de ₳15000 por proposta e todos os marcos devem ser concluídos no prazo de 12 meses a contar da concessão do projeto. Alguns desafios podem ter um limite máximo para o montante de subsídio que pode ser solicitado, por isso é importante que o escopo e as orientações do desafio sejam lidos. O Project Catalyst destina-se a ser um programa de subsídio da inovação de base. Não foi concebido para subsidiar projetos de alta complexidade e plurianuais. A aplicação de certos limites ajuda a garantir que o subsídio seja mais distribuído por todo o ecossistema e evita cenários em que são aprovados montantes muito elevados, mas a viabilidade da execução do projeto é largamente inqualificável, ou os projetos são aprovados para um subsídio muito pequeno, mas não podem gerar valor genuíno.
 
 ​
 
@@ -34,15 +34,15 @@ O Fund10 traz consigo uma série de mudanças, incluindo a introdução dessas r
 
 ​
 
-* Comportamentos contraditórios não serão tolerados. As consequências do comportamento desonesto são que as recompensas ou o financiamento serão interrompidos. Uma vez que um sistema de reputação esteja em vigor em um futuro próximo, o poder de voto e as recompensas de incentivo serão impactados pelas pontuações de reputação.
+* Comportamentos contraditórios não serão tolerados. As consequências do comportamento desonesto são que as recompensas ou o subsídios serão interrompidos. Uma vez que um sistema de reputação esteja em vigor em um futuro próximo, o poder de voto e as recompensas de incentivo serão impactados pelas pontuações de reputação.
 
 ### Critérios de elegibilidade - Quem pode candidatar-se ao subsídio? <a href="#eligibility-criteria-who-can-apply-for-funding" id="eligibility-criteria-who-can-apply-for-funding"></a>
 
 O envio de propostas para o Project Catalyst deve ser sem permissão. Qualquer pessoa com uma ideia que impacte positivamente o ecossistema Cardano pode e pode apresentar uma proposta, desde que cumpridas essas regras.
 
-### subsídio: Que tipos de projetos são financiados pelo Project Catalyst? <a href="#funding-what-types-of-projects-are-funded-by-project-catalyst" id="funding-what-types-of-projects-are-funded-by-project-catalyst"></a>
+### subsídio: Que tipos de projetos são subsidiados pelo Project Catalyst? <a href="#funding-what-types-of-projects-are-funded-by-project-catalyst" id="funding-what-types-of-projects-are-funded-by-project-catalyst"></a>
 
-O Project Catalyst visa ajudar uma ampla gama de indivíduos, grupos ou empresas a crescer, financiando as melhores ideias que têm o potencial de impactar positivamente o ecossistema Cardano. Os candidatos devem garantir que sua proposta e qualquer material fornecido não violam qualquer lei aplicável, não infringem quaisquer direitos de terceiros e não contêm ou infringem qualquer informação confidencial ou proprietária.As propostas devem:
+O Project Catalyst visa ajudar uma ampla gama de indivíduos, grupos ou empresas a crescer, subsidiando as melhores ideias que têm o potencial de impactar positivamente o ecossistema Cardano. Os candidatos devem garantir que sua proposta e qualquer material fornecido não violam qualquer lei aplicável, não infringem quaisquer direitos de terceiros e não contêm ou infringem qualquer informação confidencial ou proprietária.As propostas devem:
 
 * ser completo e preciso no momento da submissão da proposta;
 * ser para a melhoria do ecossistema Cardano;
@@ -76,7 +76,7 @@ Os candidatos deverão certificar-se de que o subsídio será utilizado exclusiv
 
 Os candidatos só podem solicitar subsídio em ada.No Fund10, serão introduzidos limites máximos para limitar o montante mínimo de subsídio que pode ser solicitado numa única proposta do Catalyst.&#x20;
 
-O subsídio estará sujeito a um montante mínimo de ₳15000 por proposta e todos os marcos devem ser concluídos no prazo de 12 meses a contar da concessão do projeto. Esse limite ajuda a impulsionar a previsibilidade de quantos projetos provavelmente serão financiados em uma determinada rodada e apoiar a estimativa de custos contínuos para os revisores da comunidade participarem do gerenciamento de responsabilidade do projeto, onde o grupo de revisores da comunidade ajuda a verificar se os marcos estão sendo alcançados e são recompensados por suas contribuições.&#x20;
+O subsídio estará sujeito a um montante mínimo de ₳15000 por proposta e todos os marcos devem ser concluídos no prazo de 12 meses a contar da concessão do projeto. Esse limite ajuda a impulsionar a previsibilidade de quantos projetos provavelmente serão subsidiados em uma determinada rodada e apoiar a estimativa de custos contínuos para os revisores da comunidade participarem do gerenciamento de responsabilidade do projeto, onde o grupo de revisores da comunidade ajuda a verificar se os marcos estão sendo alcançados e são recompensados por suas contribuições.&#x20;
 
 Alguns desafios ou categorias podem ter limites superiores (por exemplo, Catalyst Open), portanto, certifique-se de que o escopo completo do desafio seja compreendido antes de enviar sua proposta.​
 
@@ -97,8 +97,8 @@ O ciclo de subsídio do Fundo10 envolve as seguintes etapas:
 * Moderação: as revisões da comunidade são verificadas pelos moderadores para que determinem se as revisões que foram sinalizadas pelos scripts do Catalyst devem ser publicadas ou descartadas completamente.
 * Votação: os membros da comunidade votam usando o aplicativo de votação Project Catalyst. Os votos são ponderados com base na posse do token ada do eleitor.
 * Resultados: Os votos são computados e os resultados publicados em um guia de resultados do fundo.
-* Integração: Os projetos aprovados passarão por uma verificação de "prova de vida" para garantir que haja pessoas responsáveis liderando o projeto. Os projetos financiados também serão obrigados a criar um cronograma de Declaração de Marcos.
-* subsídio: Os projetos recebem subsídio juntamente com orientações adicionais. Relatórios regulares para a comunidade garantem que os projetos financiados sejam responsáveis perante seus eleitores.
+* Integração: Os projetos aprovados passarão por uma verificação de "prova de vida" para garantir que haja pessoas responsáveis liderando o projeto. Os projetos subsidiados também serão obrigados a criar um cronograma de Declaração de Marcos.
+* subsídio: Os projetos recebem subsídio juntamente com orientações adicionais. Relatórios regulares para a comunidade garantem que os projetos subsidiados sejam responsáveis perante seus eleitores.
 
 ​
 
@@ -112,7 +112,7 @@ Cada novo Fundo começa com a coleta de ideias e insights da comunidade. Quaisqu
 
 As propostas devem ser enviadas via cardano.ideascale.com, preenchendo o Formulário de Submissão de propostas e demonstrando o "impacto", a "viabilidade" e a "relação custo-benefício" da sua ideia proposta. URLs e imagens podem ser incorporadas como parte do envio da proposta.​
 
-Não é permitido submeter a mesma proposta em vários desafios ou categorias na mesma rodada de subsídio e apenas a submissão mais recente será considerada. Uma proposta de projeto só pode ser financiada para entregar o projeto uma vez.&#x20;
+Não é permitido submeter a mesma proposta em vários desafios ou categorias na mesma rodada de subsídio e apenas a submissão mais recente será considerada. Uma proposta de projeto só pode ser subsidiada para entregar o projeto uma vez.&#x20;
 
 Se uma proposta duplicada ou uma proposta separada com os mesmos resultados for concedida, a equipe do Catalyst encerrará um dos projetos juntamente com todos os pagamentos futuros para esse projeto com efeito imediato.
 
@@ -164,7 +164,7 @@ Se você foi aprovado para subsídio em uma rodada de subsídio anterior do Cata
 
 ### Pagamentos e relatórios mensais <a href="#payments-and-monthly-reporting" id="payments-and-monthly-reporting"></a>
 
-Após a verificação da Declaração de Metas, os projetos bem-sucedidos receberão um pagamento inicial cobrindo o primeiro Marco. Todos os projetos financiados serão obrigados a aderir à Declaração de Marcos estabelecida em sua proposta e devem fornecer Prova de Realização antes que o subsídio adicional seja pago. É responsabilidade do candidato principal e da equipe do proponente financiado enviar a Prova de Realização à comunidade e à equipe do Catalyst para verificação e aprovação antes que o subsídio para o próximo marco seja fornecido.
+Após a verificação da Declaração de Metas, os projetos bem-sucedidos receberão um pagamento inicial cobrindo o primeiro Marco. Todos os projetos subsidiados serão obrigados a aderir à Declaração de Marcos estabelecida em sua proposta e devem fornecer Prova de Realização antes que o subsídio adicional seja pago. É responsabilidade do candidato principal e da equipe do proponente subsidiado enviar a Prova de Realização à comunidade e à equipe do Catalyst para verificação e aprovação antes que o subsídio para o próximo marco seja fornecido.
 
 Cada projeto será obrigado a apresentar um relatório mensal que documenta o progresso que está sendo feito no projeto. A equipe do Catalyst deve ser notificada imediatamente se houver motivos pelos quais o projeto foi pausado ou não entregará o que foi votado e aprovado pela comunidade.
 

@@ -9,11 +9,12 @@ layout: landing
 
 ## **O - Fund 10 - foi lançado dia 21 de Junho de 2023**
 
-| Seção         | Breve descrição                                                | Link                             |
-| ------------- | -------------------------------------------------------------- | -------------------------------- |
-| apresentações | Seção destinada às apresentações do Catalyst Brasil.           | [clique aqui](../apresentacoes/) |
-| entrevistas   | Seção destinada à entrevistas de interesse geral da comunidade | [clique aqui](../entrevistas/)   |
-| workshops     | Seção destinada ao workshops do Catalyst Brasil                | [clique aqui](../workshops.md)   |
+| Seção         | Breve descrição                                                | Link                                       |
+| ------------- | -------------------------------------------------------------- | ------------------------------------------ |
+| - Fund 10 -   | O que é o Project Catalyst?                                    | [clique aqui](o-que-e-o-project-catalyst/) |
+| apresentações | Seção destinada às apresentações do Catalyst Brasil.           | [clique aqui](../apresentacoes/)           |
+| entrevistas   | Seção destinada à entrevistas de interesse geral da comunidade | [clique aqui](../entrevistas/)             |
+| workshops     | Seção destinada ao workshops do Catalyst Brasil                | [clique aqui](../workshops.md)             |
 
 #### Quais as novas? <a href="#whats-new" id="whats-new"></a>
 
@@ -28,7 +29,7 @@ Além da categoria de proposta 'Catalyst Open', o Fund10 também introduz duas o
 
 #### Onde encontrar o Project Catalyst? <a href="#where-to-find-project-catalyst" id="where-to-find-project-catalyst"></a>
 
-Para submeter uma Proposta: [http://cardano.ideascale.com](http://cardano.ideascale.com/).&#x20;
+Para enviar uma Proposta: [http://cardano.ideascale.com](http://cardano.ideascale.com/).&#x20;
 
 Para todas as coisas Catalyst: [https://projectcatalyst.io](https://projectcatalyst.io/)​
 
