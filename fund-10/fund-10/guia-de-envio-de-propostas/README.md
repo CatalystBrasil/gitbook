@@ -1,5 +1,5 @@
 ---
-description: Esta página orienta os proponentes a enviarem a sua proposta no Ideascale
+description: Esta página orienta os proponentes a enviarem a sua proposta no Ideascale.
 cover: ../../../.gitbook/assets/Frame 26.png
 coverY: 0
 ---
@@ -8,11 +8,7 @@ coverY: 0
 
 ### Seções do Formulário de Submissão <a href="#submission-form-sections" id="submission-form-sections"></a>
 
-Estas são as seções do formulário que você irá no Ideascale para enviar sua proposta
-
-### GERAL <a href="#general-1" id="general-1"></a>
-
-
+Estas são as seções do formulário que você irá no Ideascale para enviar sua proposta.
 
 {% tabs %}
 {% tab title="Geral" %}
@@ -73,9 +69,9 @@ GERAL
 {% tab title="OBSERVAÇÃO IMPORTANTE" %}
 ### OBSERVAÇÃO IMPORTANTE <a href="#important-note-1" id="important-note-1"></a>
 
-| PERGUNTA                                                                                                                                                                                                                                                                                                                         | ORIENTAÇÃO | OBRIGATÓRIO / OPCIONAL |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------- |
-| Ao apresentar o presente pedido, o Requerente confirma que:i) a presente proposta e o projecto estão em conformidade com as [Regras do Fundo](../regras-do-fund-10.md); e (ii) os dados do Formulário de Submissão e outros dados fornecidos pela equipe do projeto durante o curso do projeto estarão disponíveis publicamente. | Aceito     | Necessário             |
+|                                                                                                                                                                                                                                                                                                                                                              |        |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---------- |
+| <p>Ao apresentar o presente pedido, o Requerente confirma que:<br>i) a presente proposta e o projeto estão em conformidade com as Regras do <a href="../regras-do-fund-10.md">- Fund 10 -</a> ; e (ii) os dados do Formulário de Submissão e outros dados fornecidos pela equipe do projeto durante o curso do projeto estarão disponíveis publicamente.</p> | Aceito | Necessário |
 {% endtab %}
 {% endtabs %}
 
