@@ -1,5 +1,5 @@
 ---
-description: ₳1.400.000
+description: O orçamento disponível para este desafio é de  ₳1.400.000
 cover: ../../../.gitbook/assets/Frame 26.png
 coverY: 0
 ---
