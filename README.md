@@ -22,7 +22,7 @@ Junte-se a nós no Catalyst Brasil e embarque nessa jornada educativa e transfor
 
 ### Bem-vindo ao Catalyst Brasil, onde a educação e a colaboração moldam o futuro do Cardano.
 
-[Clique aqui para acessar nossa proposata do - Fund7 - no Ideascale](https://cardano.ideascale.com/c/idea/60774)
+[Clique aqui para acessar nossa proposta do - Fund7 - no Ideascale](https://cardano.ideascale.com/c/idea/60774)
 
 <div align="center" data-full-width="false">
 
