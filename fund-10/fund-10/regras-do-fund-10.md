@@ -1,5 +1,7 @@
 ---
 description: Regulamento do Fundo Catalyst
+cover: ../../.gitbook/assets/Frame 26.png
+coverY: 0
 ---
 
 # Regras do - Fund 10 -

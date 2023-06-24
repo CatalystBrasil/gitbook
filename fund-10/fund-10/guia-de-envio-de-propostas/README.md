@@ -1,5 +1,7 @@
 ---
 description: Esta página orienta os proponentes a enviarem a sua proposta no Ideascale
+cover: ../../../.gitbook/assets/Frame 26.png
+coverY: 0
 ---
 
 # Guia de envio de propostas

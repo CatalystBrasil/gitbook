@@ -2,6 +2,8 @@
 description: >-
   O Project Catalyst é o maior mecanismo de inovação descentralizada do mundo
   para resolver desafios do mundo real.
+cover: ../../.gitbook/assets/Frame 26.png
+coverY: 0
 ---
 
 # O que é o Project Catalyst

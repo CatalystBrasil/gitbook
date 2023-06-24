@@ -3,6 +3,8 @@ description: >-
   Os parâmetros operacionais do Fund10 são os parâmetros operacionais, que
   compõem o protocolo de votação do Catalyst implementado para permitir que a
   comunidade decida quais propostas serão subsidiadas
+cover: ../../../.gitbook/assets/Frame 26.png
+coverY: 0
 ---
 
 # Parâmetros do - Fund 10 -

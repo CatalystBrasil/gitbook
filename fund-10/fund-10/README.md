@@ -9,12 +9,15 @@ layout: landing
 
 ## **O - Fund 10 - foi lançado dia 21 de Junho de 2023**
 
-| Seção         | Breve descrição                                                | Link                                         |
-| ------------- | -------------------------------------------------------------- | -------------------------------------------- |
-| - Fund 10 -   | O que é o Project Catalyst?                                    | [clique aqui](o-que-e-o-project-catalyst.md) |
-| apresentações | Seção destinada às apresentações do Catalyst Brasil.           | [clique aqui](../apresentacoes/)             |
-| entrevistas   | Seção destinada à entrevistas de interesse geral da comunidade | [clique aqui](../entrevistas/)               |
-| workshops     | Seção destinada ao workshops do Catalyst Brasil                | [clique aqui](../workshops.md)               |
+| Seção                             | Breve descrição                                                                                                             | Link                                             |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Guia dos Revisores da Comunidade? | A Etapa de Revisão da Comunidade é uma oportunidade importante para a comunidade Cardano oferecer suas opiniões e feedback. | [clique aqui](guia-dos-revisores-da-comunidade/) |
+| Guia de envio de propostas        | Esta página orienta os proponentes a enviarem a sua proposta no Ideascale.                                                  | [clique aqui](guia-de-envio-de-propostas/)       |
+| - Fund 10 -                       | O que é o Project Catalyst?                                                                                                 | [clique aqui](o-que-e-o-project-catalyst.md)     |
+| apresentações                     | Seção destinada às apresentações do Catalyst Brasil.                                                                        | [clique aqui](../apresentacoes/)                 |
+| entrevistas                       | Seção destinada à entrevistas de interesse geral da comunidade                                                              | [clique aqui](../entrevistas/)                   |
+| workshops                         | Seção destinada ao workshops do Catalyst Brasil                                                                             | [clique aqui](../workshops.md)                   |
+| <p>Regras do <br>- Fund 10 -</p>  | Regulamento do Fundo Catalyst                                                                                               | [clique aqui](regras-do-fund-10.md)              |
 
 #### Quais as novas? <a href="#whats-new" id="whats-new"></a>
 

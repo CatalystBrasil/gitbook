@@ -1,6 +1,6 @@
 ---
 description: O orçamento disponível para este desafio é de ₳3.570.000
-cover: broken-reference
+cover: ../../../.gitbook/assets/Frame 26.png
 coverY: 0
 ---
 

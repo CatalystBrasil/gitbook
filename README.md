@@ -1,5 +1,7 @@
 ---
 description: Seção destinada à apresentação do Catalyst Brasil
+cover: .gitbook/assets/Frame 26.png
+coverY: 0
 ---
 
 # Sobre o Catalyst Brasil

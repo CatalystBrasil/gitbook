@@ -2,6 +2,8 @@
 description: >-
   Esta página fornece uma visão geral do que os Revisores da Comunidade
   considerarão ao enviar suas opiniões
+cover: ../../../.gitbook/assets/Frame 26.png
+coverY: 0
 ---
 
 # Orientação de pontuação para o Proponente
