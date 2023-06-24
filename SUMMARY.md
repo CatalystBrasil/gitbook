@@ -15,7 +15,7 @@
   * [Guia de envio de propostas](fund-10/fund-10/guia-de-envio-de-propostas/README.md)
     * [Orientação de pontuação para o Proponente](fund-10/fund-10/guia-de-envio-de-propostas/orientacao-de-pontuacao-para-o-proponente.md)
     * [Parâmetros do - Fund 10 -](fund-10/fund-10/guia-de-envio-de-propostas/parametros-do-fund-10.md)
-  * [Guia dos Revisores da Comunidade?](fund-10/fund-10/guia-dos-revisores-da-comunidade/README.md)
+  * [Guia dos Revisores da Comunidade](fund-10/fund-10/guia-dos-revisores-da-comunidade/README.md)
     * [Como se tornar um Revisor da Comunidade?](fund-10/fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/README.md)
       * [Como faço para progredir nos níveis de Revisor da Comunidade?](fund-10/fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/como-faco-para-progredir-nos-niveis-de-revisor-da-comunidade.md)
       * [Community Review - Submission process (LV0 and LV1)](fund-10/fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/community-review-submission-process-lv0-and-lv1.md)
