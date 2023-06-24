@@ -30,7 +30,7 @@ Mas por que fazer isso? Quais as vantagens?
 
 #### Como posso participar? <a href="#how-can-i-participate" id="how-can-i-participate"></a>
 
-* **​**[**Proponentes**](https://docs.projectcatalyst.io/catalyst-basics/how-to-submit-a-proposal) - Propor novas ideias para uma chance de ganhar subsídios
-* **​**[**Revisores da Comunidade**](https://docs.projectcatalyst.io/catalyst-basics/how-to-participate-in-community-reviews) - Dar opiniões e ajudar a orientar os eleitores através das propostas apresentadas.
+* **​**[**Proponentes**](guia-de-envio-de-propostas/) - Propor novas ideias para uma chance de ganhar subsídios
+* **​**[**Revisores da Comunidade**](https://docs.projectcatalyst.io/catalyst-basics/how-to-participate-in-community-reviews)[ ](guia-dos-revisores-da-comunidade/)- Dar opiniões e ajudar a orientar os eleitores através das propostas apresentadas.
 * **Equipes de desafio** - Maximize o impacto enquadrando problemas e definindo o sucesso
 * **Eleitores** - Decidam sobre o futuro de Cardano decidindo quais propostas recebem subsídios
