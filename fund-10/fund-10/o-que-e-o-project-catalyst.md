@@ -10,7 +10,7 @@ coverY: 0
 
 Apresentamos o Project Catalyst, o revolucionário motor de inovação do Cardano e um dos fundos de subvenção descentralizada mais significativos do mundo.&#x20;
 
-O Project Catalyst impulsiona a inovação colaborativa a novos patamares e alimenta a expansão do ecossistema Cardano, conectando pessoas com ideias inovadoras a uma fonte de subvenção, colaborando e votado pela comunidade Cardano e liderado pelo Tesouro Cardano.
+O Project Catalyst impulsiona a inovação colaborativa a novos patamares e turbo alimenta a expansão do ecossistema Cardano, conectando pessoas com ideias inovadoras a uma fonte de subvenção, colaborando e votado pela comunidade Cardano e liderado pelo Tesouro Cardano.
 
 #### Por que colaborar para inovar? <a href="#why-collaborate-to-innovate" id="why-collaborate-to-innovate"></a>
 
