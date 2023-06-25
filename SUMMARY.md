@@ -18,7 +18,7 @@
   * [Guia dos Revisores da Comunidade](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/README.md)
     * [Processo de Revisão da Comunidade](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/processo-de-revisao-da-comunidade.md)
     * [Como se tornar um Revisor da Comunidade?](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/README.md)
-      * [Níveis de revisores da comunidade](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/niveis-de-revisores-da-comunidade/README.md)
+      * [Níveis de Revisores da Comunidade](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/niveis-de-revisores-da-comunidade/README.md)
         * [Revisão da comunidade - Processo de submissão (LV0 e LV1)](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/niveis-de-revisores-da-comunidade/revisao-da-comunidade-processo-de-submissao-lv0-e-lv1.md)
         * [Revisão da Comunidade - Processo de Moderação (LV2)](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/niveis-de-revisores-da-comunidade/revisao-da-comunidade-processo-de-moderacao-lv2/README.md)
           * [Regras para os Moderadores Comunitários (LV2)](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/niveis-de-revisores-da-comunidade/revisao-da-comunidade-processo-de-moderacao-lv2/regras-para-os-moderadores-comunitarios-lv2.md)
