@@ -16,7 +16,7 @@
     * [Orientação de pontuação para o Proponente](fund-10/catalyst-fund-10/guia-de-envio-de-propostas/orientacao-de-pontuacao-para-o-proponente.md)
     * [Parâmetros do - Fund 10 -](fund-10/catalyst-fund-10/guia-de-envio-de-propostas/parametros-do-fund-10.md)
   * [Guia dos Revisores da Comunidade](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/README.md)
-    * [Revisão da comunidade - Rubrica de pontuação e perguntas orientadoras](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/revisao-da-comunidade-rubrica-de-pontuacao-e-perguntas-orientadoras.md)
+    * [Processo de Revisão da Comunidade](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/processo-de-revisao-da-comunidade.md)
     * [Como se tornar um Revisor da Comunidade?](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/README.md)
       * [Níveis de revisores da comunidade](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/niveis-de-revisores-da-comunidade/README.md)
         * [Revisão da comunidade - Processo de submissão (LV0 e LV1)](fund-10/catalyst-fund-10/guia-dos-revisores-da-comunidade/como-se-tornar-um-revisor-da-comunidade/niveis-de-revisores-da-comunidade/revisao-da-comunidade-processo-de-submissao-lv0-e-lv1.md)
