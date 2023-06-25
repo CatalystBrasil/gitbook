@@ -1,7 +1,7 @@
 ---
 description: >-
-  Esta página explica as etapas e as principais informações para ingressar no
-  estágio de Revisão da Comunidade
+  Esta página explica os passos e as principais informações para ser um Revisor
+  na fase de Revisão da Comunidade.
 cover: ../../../../.gitbook/assets/Frame 26.png
 coverY: 0
 ---
