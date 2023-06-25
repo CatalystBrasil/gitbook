@@ -6,7 +6,7 @@ coverY: 0
 
 # Guia de envio de propostas
 
-### Seções do Formulário de Submissão <a href="#submission-form-sections" id="submission-form-sections"></a>
+### Seções do Formulário de Envio <a href="#submission-form-sections" id="submission-form-sections"></a>
 
 Estas são as seções do formulário que você irá no Ideascale para enviar sua proposta.
 
