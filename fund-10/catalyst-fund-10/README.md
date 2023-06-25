@@ -2,10 +2,9 @@
 description: 🚀 Bem-vind@s ao - Fund 10 - 🎉
 cover: ../../.gitbook/assets/Frame 26.png
 coverY: 0
-layout: landing
 ---
 
-# - Fund 10 -
+# Catalyst - Fund 10 -
 
 ## **O - Fund 10 - foi lançado dia 21 de Junho de 2023**
 
