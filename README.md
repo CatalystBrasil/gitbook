@@ -28,10 +28,10 @@ Junte-se a nós no Catalyst Brasil e embarque nessa jornada educativa e transfor
 
 <div align="center" data-full-width="false">
 
-<figure><img src=".gitbook/assets/[F10] CSBra-hero-git.png" alt="" width="375"><figcaption><p><a href="fund-10/fund-10/">Saiba tudo sobre o - Fund 10 -</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/[F10] CSBra-hero-git.png" alt="" width="375"><figcaption><p><a href="fund-10/catalyst-fund-10/">Saiba tudo sobre o - Fund 10 -</a></p></figcaption></figure>
 
 </div>
 
-{% content-ref url="fund-10/fund-10/" %}
-[fund-10](fund-10/fund-10/)
+{% content-ref url="fund-10/catalyst-fund-10/" %}
+[catalyst-fund-10](fund-10/catalyst-fund-10/)
 {% endcontent-ref %}
