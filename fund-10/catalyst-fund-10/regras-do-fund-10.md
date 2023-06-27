@@ -213,4 +213,4 @@ Todos os participantes do Fund10, incluindo Revisores da Comunidade e candidatos
 * declarações falsas em qualquer parte de uma proposta ou documentação apresentada no decorrer do projeto;
 * não manutenção de um progresso satisfatório no projeto;
 * quaisquer alterações significativas aos resultados propostos do projeto;
-* comportamento ou atividade dos participantes do Fund10 que não esteja em conformidade com estas regras ou seja prejudicial à reputação do Project Catalyst ou aos interesses da Cardano.
+* comportamento ou atividade dos participantes do Fund10 que não esteja em conformidade com estas regras ou seja prejudicial à reputação do Project Catalyst ou aos interesses do Cardano.
