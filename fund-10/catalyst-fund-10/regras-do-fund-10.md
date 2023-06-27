@@ -25,7 +25,7 @@ A violação destas regras pode resultar na desqualificação das propostas e/ou
 ### Principais mudanças no Fund10 <a href="#main-changes-to-fund10" id="main-changes-to-fund10"></a>
 
 * As propostas devem ser denominadas em $ADA e os pagamentos de subsídio serão feitos em $ADA. \
-  Para garantir que o Project Catalyst possa continuar a usar o tesouro da Cardano para subsidiar o crescimento do ecossistema Cardano, é de vital importância que as participações de tesouraria possam ser gerenciadas. \
+  Para garantir que o Project Catalyst possa continuar a usar o tesouro do Cardano para subsidiar o crescimento do ecossistema Cardano, é de vital importância que as participações de tesouraria possam ser gerenciadas. \
   Um fundo inteiramente denominado em $ADA significa que a comunidade e o tesouro podem prever de forma sensata quanto em $ADA será usado por cada fundo.
 
 ​
