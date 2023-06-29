@@ -12,7 +12,7 @@ O Project Catalyst é um motor de crescimento e um programa de subvenção para 
 
 No início de cada Fundo, os membros da comunidade apresentam propostas em resposta aos desafios estabelecidos pela comunidade na rodada anterior.&#x20;
 
-Os votos da comunidade e o subsídio são alocados aos projetos vencedores para dar vida aos projetos.​
+Os votos da comunidade e o subsídio são alocados aos projetos vencedores para lhes dar vida.​
 
 ### Objetivo deste documento <a href="#purpose-of-this-document" id="purpose-of-this-document"></a>
 
@@ -75,7 +75,7 @@ As propostas devem:
 
 ​O subsídio do projeto pode ser solicitado para várias etapas de inovação técnica e desenvolvimento de software, desde estudos de viabilidade até o desenvolvimento e teste de protótipos ou recursos completos.&#x20;
 
-As propostas podem ser desenvolver um novo produto, serviço, processo habilitado para tecnologia ou pegar um produto ou serviço de tecnologia existente e desenvolvê-lo ainda mais além das capacidades existentes. As solicitações de subsídio do Project Catalyst também podem ser focadas em atividades, eventos, conteúdo ou empreendimentos sociais que ajudem a integrar e educar novos usuários sobre a Cardano.​
+As propostas podem ser desenvolver um novo produto, serviço, processo habilitado para tecnologia ou pegar um produto ou serviço de tecnologia existente e desenvolvê-lo ainda mais além das capacidades existentes. As solicitações de subsídio do Project Catalyst também podem ser focadas em atividades, eventos, conteúdo ou empreendimentos sociais que ajudem a integrar e educar novos usuários sobre o Cardano.​
 
 A chave para todos os pedidos de propostas de subsídio é que é para o amplo benefício do ecossistema Cardano e há entregas e resultados bem definidos para cada projeto que podem ser verificados de forma mensurável pela comunidade Cardano.
 
@@ -109,7 +109,7 @@ O subsídio é concedido apenas através de uma subvenção. Propostas que solic
 
 ### Quanto tempo meu projeto pode durar? <a href="#how-long-can-my-project-be" id="how-long-can-my-project-be"></a>
 
-Os projectos devem poder ser concluídos no prazo de 12 meses a contar da data de concessão do projecto.
+Os projetos devem poder ser concluídos no prazo de 12 meses a contar da data de concessão do projeto.
 
 ### Quais são as principais etapas do processo de subsídio?  <a href="#what-are-the-key-steps-of-the-funding-process" id="what-are-the-key-steps-of-the-funding-process"></a>
 
@@ -159,7 +159,7 @@ Sua revisão não deve ser obra de outros ou de um agente de IA agindo em seu no
 
 Os moderadores da comunidade são membros da comunidade que atuam como um ponto de escalonamento nos casos em que as avaliações são sinalizadas pela equipe do Catalyst para revisão adicional.&#x20;
 
-Os Moderadores da Comunidade garantirão que as revisões da comunidade sejam apropriadas para fornecer aos votantes, descartando apenas as revisões que não estejam em conformidade com essas regras e as diretrizes fornecidas no [Diretriz dos Revisores da Comunidade](https://docs.projectcatalyst.io/catalyst-basics/how-to-participate-in-community-reviews).
+Os Moderadores da Comunidade garantirão que as revisões da comunidade sejam apropriadas para fornecer aos votantes, descartando apenas as revisões que não estejam em conformidade com essas regras e as diretrizes fornecidas no [Guia dos Revisores da Comunidade](guia-dos-revisores-da-comunidade/).
 
 A grande maioria das avaliações são opiniões genuínas das pessoas e estas serão incluídas no processo de votação para ajudar a informar os eleitores sobre as opiniões dos Revisores da Comunidade. Se uma revisão for sinalizada, provavelmente haverá um motivo atribuído ao sinalizador e as informações sobre quais avaliações e revisores foram sinalizados e descontados serão publicadas.A equipe do Catalyst usa scripts automatizados para identificar os seguintes problemas para revisão pelos moderadores:
 
