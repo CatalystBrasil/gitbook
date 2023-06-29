@@ -8,7 +8,7 @@ coverY: 0
 
 ### Introdução  <a href="#introduction" id="introduction"></a>
 
-O Project Catalyst é um motor de crescimento e um programa de subsídios para o ecossistema Cardano que tem rodadas de subsídio a cada poucos meses, com uma quantidade definida em $ADA pronta para alocar em ideias.&#x20;
+O Project Catalyst é um motor de crescimento e um programa de subvenção para o ecossistema Cardano que tem rodadas de subsídio a cada poucos meses, com uma quantidade definida em $ADA pronta para alocar em ideias.&#x20;
 
 No início de cada Fundo, os membros da comunidade apresentam propostas em resposta aos desafios estabelecidos pela comunidade na rodada anterior.&#x20;
 
