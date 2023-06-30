@@ -30,6 +30,7 @@
     * [Conexão da Carteira](fund-10/catalyst-fund-10/cadastre-se-para-votar/conexao-da-carteira.md)
   * [Regras do - Fund 10 -](fund-10/catalyst-fund-10/regras-do-fund-10.md)
 * [apresentações](fund-10/apresentacoes/README.md)
+  * [Começando no Catalyst](fund-10/apresentacoes/comecando-no-catalyst.md)
   * [Categorias do - Fund 10 -](fund-10/apresentacoes/categorias-do-fund-10/README.md)
     * [Operações do Fundo Catalyst](fund-10/apresentacoes/categorias-do-fund-10/operacoes-do-fundo-catalyst.md)
     * [Melhorias nos sistemas Catalyst](fund-10/apresentacoes/categorias-do-fund-10/melhorias-nos-sistemas-catalyst.md)
