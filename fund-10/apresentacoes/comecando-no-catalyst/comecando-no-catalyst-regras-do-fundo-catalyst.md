@@ -12,6 +12,6 @@ Este vídeo apresenta o regulamento do Fundo Catalyst, um programa de subsídios
 Saiba como as propostas são avaliadas e votadas pela comunidade, as mudanças no processo de subsídio, os critérios de elegibilidade e o propósito do financiamento. \
 Descubra como o Fundo Catalyst busca apoiar projetos que impactem positivamente o ecossistema Cardano e conheça os requisitos para participar.
 
-{% content-ref url="../../catalyst-fund-10/regras-do-fund-10.md" %}
-[regras-do-fund-10.md](../../catalyst-fund-10/regras-do-fund-10.md)
+{% content-ref url="../../fund-10/regras-do-fund-10.md" %}
+[regras-do-fund-10.md](../../fund-10/regras-do-fund-10.md)
 {% endcontent-ref %}

@@ -16,7 +16,7 @@ coverY: 0
 | apresentações                    | Seção destinada às apresentações do Catalyst Brasil.                                                                        | [clique aqui](../apresentacoes/)                 |
 | entrevistas                      | Seção destinada à entrevistas de interesse geral da comunidade                                                              | [clique aqui](../entrevistas/)                   |
 | workshops                        | Seção destinada ao workshops do Catalyst Brasil                                                                             | [clique aqui](../workshops.md)                   |
-| <p>Regras do <br>- Fund 10 -</p> | Regulamento do Fundo Catalyst                                                                                               | [clique aqui](regras-do-fund-10.md)              |
+| <p>Regras do <br>- Fund 10 -</p> | Regulamento do Fundo Catalyst                                                                                               | [clique aqui](../fund-10/regras-do-fund-10.md)   |
 
 #### Quais as novas? <a href="#whats-new" id="whats-new"></a>
 

@@ -4,7 +4,7 @@ cover: ../../../../../.gitbook/assets/Frame 26.png
 coverY: 0
 ---
 
-# Níveis de revisores da comunidade
+# Níveis de Revisores da Comunidade
 
 Todos os revisores são capazes de dar suas opiniões exatamente da mesma maneira que os outros. A diferença é que, **para revisores mais experientes, há mais oportunidades de apoiar os processos do Catalyst e receber recompensas**.​
 
@@ -14,7 +14,7 @@ Todos os revisores são capazes de dar suas opiniões exatamente da mesma maneir
 Os revisores da comunidade LV0 são TODOS os novos revisores e revisores menos experientes.
 {% endhint %}
 
-Considere-se no piso térreo e a Catalyst quer que você se acostume a desempenhar a função. Os revisores LV0 compartilharão um pote de incentivos de recompensas. Quanto maior o conjunto de revisões e revisores LV0, menos por revisão cada revisor receberá. Os revisores LV0 serão convidados a analisar até 30 propostas e receberão um conjunto inicial de propostas para revisão com base em propostas em todo o fundo (impossibilitados de escolher desafios específicos).​
+Considere-se no piso térreo e o Catalyst quer que você se acostume a desempenhar a função. Os revisores LV0 compartilharão um pote de incentivos de recompensas. Quanto maior o conjunto de revisões e revisores LV0, menos por revisão cada revisor receberá. Os revisores LV0 serão convidados a analisar até 30 propostas e receberão um conjunto inicial de propostas para revisão com base em propostas em todo o fundo (impossibilitados de escolher desafios específicos).​
 
 #### LV1 <a href="#lv1" id="lv1"></a>
 

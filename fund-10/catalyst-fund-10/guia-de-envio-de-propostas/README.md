@@ -69,9 +69,9 @@ GERAL
 {% tab title="OBSERVAÇÃO IMPORTANTE" %}
 ### OBSERVAÇÃO IMPORTANTE <a href="#important-note-1" id="important-note-1"></a>
 
-|                                                                                                                                                                                                                                                                                                                                                              |        |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ---------- |
-| <p>Ao apresentar o presente pedido, o Requerente confirma que:<br>i) a presente proposta e o projeto estão em conformidade com as Regras do <a href="../regras-do-fund-10.md">- Fund 10 -</a> ; e (ii) os dados do Formulário de Submissão e outros dados fornecidos pela equipe do projeto durante o curso do projeto estarão disponíveis publicamente.</p> | Aceito | Necessário |
+|                                                                                                                                                                                                                                                                                                                                                                         |        |            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
+| <p>Ao apresentar o presente pedido, o Requerente confirma que:<br>i) a presente proposta e o projeto estão em conformidade com as Regras do <a href="../../fund-10/regras-do-fund-10.md">- Fund 10 -</a> ; e (ii) os dados do Formulário de Submissão e outros dados fornecidos pela equipe do projeto durante o curso do projeto estarão disponíveis publicamente.</p> | Aceito | Necessário |
 {% endtab %}
 {% endtabs %}
 
