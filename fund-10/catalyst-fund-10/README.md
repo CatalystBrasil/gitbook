@@ -10,7 +10,7 @@ coverY: 0
 
 | Seção                            | Breve descrição                                                                                                             | Link                                                   |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Começando no Catalyst            |                                                                                                                             | [clique aqui](../apresentacoes/comecando-no-catalyst/) |
+| Começando no Catalyst            | Apresentando "Começando no Catalyst": O Guia Completo do Processo do Project Catalyst do Cardano.                           | [clique aqui](../apresentacoes/comecando-no-catalyst/) |
 | Guia dos Revisores da Comunidade | A Etapa de Revisão da Comunidade é uma oportunidade importante para a comunidade Cardano oferecer suas opiniões e feedback. | [clique aqui](guia-dos-revisores-da-comunidade/)       |
 | Guia de envio de propostas       | Esta página orienta os proponentes a enviarem a sua proposta no Ideascale.                                                  | [clique aqui](guia-de-envio-de-propostas/)             |
 | - Fund 10 -                      | O que é o Project Catalyst?                                                                                                 | [clique aqui](o-que-e-o-project-catalyst.md)           |
