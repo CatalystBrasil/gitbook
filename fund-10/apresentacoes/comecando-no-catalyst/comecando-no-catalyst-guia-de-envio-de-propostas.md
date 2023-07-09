@@ -23,6 +23,6 @@ Ideascale: [https://cardano.ideascale.com/](https://www.youtube.com/redirect?eve
 Recursos associados:\
 [regras-do-fund-10.md](../../fund-10/regras-do-fund-10.md "mention")\
 [comecando-no-catalyst-envio-da-proposta.md](comecando-no-catalyst-envio-da-proposta.md "mention")\
-[comecando-no-catalyst-guia-de-envio-da-proposta.md](comecando-no-catalyst-guia-de-envio-da-proposta.md "mention")\
+[comecando-no-catalyst-guia-de-envio-de-propostas.md](comecando-no-catalyst-guia-de-envio-de-propostas.md "mention")\
 [comecando-no-catalyst-orcamento-da-proposta.md](comecando-no-catalyst-orcamento-da-proposta.md "mention")\
 [fund10-datas-e-prazos.md](../fund10-datas-e-prazos.md "mention")
