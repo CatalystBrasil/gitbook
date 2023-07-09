@@ -36,6 +36,6 @@ Recursos associados:\
 [guia-de-envio-de-propostas](../../catalyst-fund-10/guia-de-envio-de-propostas/ "mention")\
 [regras-do-fund-10.md](../../fund-10/regras-do-fund-10.md "mention")\
 [comecando-no-catalyst-envio-da-proposta.md](comecando-no-catalyst-envio-da-proposta.md "mention")\
-[comecando-no-catalyst-guia-de-envio-de-propostas.md](comecando-no-catalyst-guia-de-envio-de-propostas.md "mention")\
+[comecando-no-catalyst-guia-de-envio-da-proposta.md](comecando-no-catalyst-guia-de-envio-da-proposta.md "mention")\
 [guia-de-envio-de-propostas](../../catalyst-fund-10/guia-de-envio-de-propostas/ "mention")\
 [fund10-datas-e-prazos.md](../fund10-datas-e-prazos.md "mention")

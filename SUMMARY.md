@@ -35,7 +35,7 @@
   * [Começando no Catalyst](fund-10/apresentacoes/comecando-no-catalyst/README.md)
     * [Começando no Catalyst: Envio da Proposta](fund-10/apresentacoes/comecando-no-catalyst/comecando-no-catalyst-envio-da-proposta.md)
     * [Começando no Catalyst: Orçamento da Proposta](fund-10/apresentacoes/comecando-no-catalyst/comecando-no-catalyst-orcamento-da-proposta.md)
-    * [Começando no Catalyst: Guia de Envio de Propostas](fund-10/apresentacoes/comecando-no-catalyst/comecando-no-catalyst-guia-de-envio-de-propostas.md)
+    * [Começando no Catalyst: Guia de Envio da Proposta](fund-10/apresentacoes/comecando-no-catalyst/comecando-no-catalyst-guia-de-envio-da-proposta.md)
     * [Começando no Catalyst: Regras do Fundo Catalyst](fund-10/apresentacoes/comecando-no-catalyst/comecando-no-catalyst-regras-do-fundo-catalyst.md)
   * [Categorias do - Fund 10 -](fund-10/apresentacoes/categorias-do-fund-10/README.md)
     * [Operações do Fundo Catalyst](fund-10/apresentacoes/categorias-do-fund-10/operacoes-do-fundo-catalyst.md)
