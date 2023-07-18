@@ -1,7 +1,5 @@
 ---
-description: >-
-  Página dedicada às propostas apresentadas no Fundo 10 do Project Catalyst,
-  pelo Catalyst Brasil.
+description: Página dedicada às propostas apresentadas no Fundo 10 do Project Catalyst.
 ---
 
 # Propostas do Fund10
